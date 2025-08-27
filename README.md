@@ -53,7 +53,7 @@ The app allows users to add tasks, set date & time, mark them as completed, edit
 ---
 
 ## 🔗 Links
-- **LinkedIn Post:** []  
+- **LinkedIn Post:** [https://www.linkedin.com/posts/preksha-h-d-a522b7333_skillcrafttechnology-todoapp-webdevelopment-activity-7366492170737930242-hQDR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFPfOB4B2_iyoU3CqjBe8tFkGXwwd3PouvQ]  
 
 ---
 
